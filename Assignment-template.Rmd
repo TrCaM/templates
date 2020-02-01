@@ -1,0 +1,41 @@
+---
+title: '\Huge\textbf{COMP 4001 - Assignment C}'
+subtitle: 'Name: Tri Cao -- Student number: 100971065'
+date: "`r format(Sys.time(), '%d %B %Y')`"
+lang: "en"
+fontsize: 12pt
+output:
+  pdf_document:
+    keep_tex: true
+    fig_caption: yes
+    latex_engine: pdflatex
+    includes:
+      in_header: preamble.tex
+...
+
+\newgeometry{top=1in,bottom=1in,right=0.5in,left=1in}
+
+## Question 1
+
+## Question 2
+
+#### Pseudo-code of the flooding algorithm from a given node
+
+## Question 3
+
+## Question 4
+
+## Question 5
+
+## Question 6
+
+## Question 7
+
+## Question 8
+
+## Question 9
+
+## Question 10
+
+## Question 11
+
